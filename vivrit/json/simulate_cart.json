@@ -1,0 +1,26 @@
+{
+	"CustomerA":{
+		"itemA1" : 2,
+		"itemB1" : 3,
+		"itemC1" : 2,
+		"itemD1" : 1
+	},
+	"CustomerB":{
+		"itemA2" : 2,
+		"itemB2" : 3,
+		"itemC2" : 2,
+		"itemD2" : 1
+	},
+	"CustomerC":{
+		"itemA3" : 2,
+		"itemB3" : 3,
+		"itemC3" : 2,
+		"itemD3" : 1
+	},
+	"CustomerD":{
+		"itemA4" : 2,
+		"itemB4" : 3,
+		"itemC4" : 2,
+		"itemD4" : 1
+	}	
+}

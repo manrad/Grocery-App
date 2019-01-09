@@ -1,0 +1,12 @@
+{
+	"class":{
+		"itemclassB" : {"disc" : 0.5},
+		"itemclassA" : {"disc" : 0.3}
+	},
+	"item":{
+		"itemB1" : {"disc" : 0.15},
+		"itemC2" : {"disc" : 0.25},
+		"itemD3" : {"disc" : 0.35},
+		"itemE4" : {"disc" : 0.45}
+	}	
+}

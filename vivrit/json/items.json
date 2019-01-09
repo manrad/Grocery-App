@@ -1,0 +1,32 @@
+{
+	"itemclassA":{
+		"itemA1" : {"mrp" : 23.04,"qty" : 10,"disc" : 0},
+		"itemA2" : {"mrp" : 598.89,"qty" : 15,"disc" : 0},
+		"itemA3" : {"mrp" : 0.5,"qty" : 640,"disc" : 0},
+		"itemA4" : {"mrp" : 997.32,"qty" : 32,"disc" : 0}
+	},
+	"itemclassB":{
+		"itemB1" : {"mrp" : 112.04,"qty" : 92,"disc" : 0},
+		"itemB2" : {"mrp" : 675.89,"qty" : 52,"disc" : 0},
+		"itemB3" : {"mrp" : 432.5,"qty" : 212,"disc" : 0},
+		"itemB4" : {"mrp" : 699.32,"qty" : 22,"disc" : 0}
+	},
+	"itemclassC":{
+		"itemC1" : {"mrp" : 112.04,"qty" : 92,"disc" : 0},
+		"itemC2" : {"mrp" : 675.89,"qty" : 52,"disc" : 0},
+		"itemC3" : {"mrp" : 432.5,"qty" : 212,"disc" : 0},
+		"itemC4" : {"mrp" : 699.32,"qty" : 22,"disc" : 0}
+	},
+	"itemclassD":{
+		"itemD1" : {"mrp" : 112.04,"qty" : 92,"disc" : 0},
+		"itemD2" : {"mrp" : 675.89,"qty" : 52,"disc" : 0},
+		"itemD3" : {"mrp" : 432.5,"qty" : 212,"disc" : 0},
+		"itemD4" : {"mrp" : 699.32,"qty" : 22,"disc" : 0}
+	},
+	"itemclassE":{
+		"itemE1" : {"mrp" : 112.04,"qty" : 92,"disc" : 0},
+		"itemE2" : {"mrp" : 675.89,"qty" : 52,"disc" : 0},
+		"itemE3" : {"mrp" : 432.5,"qty" : 212,"disc" : 0},
+		"itemE4" : {"mrp" : 699.32,"qty" : 22,"disc" : 0}
+	}	
+}
